@@ -263,7 +263,7 @@ plot_bandstructure(basis; n_bands=6, kline_density=100)
 #   can be assembled using the `terms` kwarg of the model.
 #   This allows to seamlessly construct
 #
-#   * density-functial theory (DFT) models for treating electronic structures
+#   * density-functional theory (DFT) models for treating electronic structures
 #     (see the [Tutorial](@ref)).
 #   * Gross-Pitaevskii models for bosonic systems
 #     (see [Gross-Pitaevskii equation in one dimension](@ref))
