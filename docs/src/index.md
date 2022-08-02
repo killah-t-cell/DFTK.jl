@@ -77,6 +77,7 @@ Pages = [
     "examples/pymatgen.md",
     "examples/ase.md",
     "examples/collinear_magnetism.md",
+    "examples/convergence_study.md",
     "examples/geometry_optimization.md",
     "examples/scf_callbacks.md",
     "examples/scf_checkpoints.md",
